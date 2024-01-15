@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "Mati"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "28e8bf71-eb9d-4e35-8e1b-fbebf022a474"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "28e8bf71-eb9d-4e35-8e1b-fbebf022a474"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "28e8bf71-eb9d-4e35-8e1b-fbebf022a474"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "28e8bf71-eb9d-4e35-8e1b-fbebf022a474"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "28e8bf71-eb9d-4e35-8e1b-fbebf022a474"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -49,14 +49,14 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "northeurope"
         }
       }
     },
     "policyAssignmentParametersServiceHealth": {
       "value": {
         "ALZMonitorActionGroupEmail": {
-          "value": "action@mail.com"
+          "value": "mateuszbedra@outlook.com"
         },
         "ResHlthUnhealthyAlertState": {
           "value": "true"
